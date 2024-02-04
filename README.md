@@ -33,7 +33,7 @@ This project consists for the following files:
 * **_config.yml** - Configuration file for github theme.
 
 ## Download:
-This project can be downloaded by [clicking here](https://github.com/pks9862728888/Movie_trailer_website_generator/archive/master.zip)
+This project can be downloaded by [clicking here](https://github.com/arnabisaha/Movie_trailer_website_generator/archive/master.zip)
 
 ## How to Run Project:
 
