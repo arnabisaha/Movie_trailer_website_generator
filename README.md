@@ -40,7 +40,7 @@ This project can be downloaded by [clicking here](https://github.com/arnabisaha/
 Download the project zip file to your computer and unzip the file. Or clone this repository to your desktop by typing the following code in your terminal(*for Linux*) or command prompt(*for windows*):
 
 ```bash
-git clone https://github.com/pks9862728888/Movie_trailer_website_generator.git
+git clone https://github.com/arnabisaha/Movie_trailer_website_generator.git
 ```
 
 Navigate to the project directory and type in the following command:
@@ -90,7 +90,7 @@ Then execute `entertainment_center.py`.
 
 ## Output after running `entertainment_center.py`:
 
-[This](http://htmlpreview.github.com/?https://github.com/pks9862728888/Movie_trailer_website_generator/blob/master/webpage.html) is what it looks like when you run *entertainment_center.py*
+[This](http://htmlpreview.github.com/?https://github.com/arnabisaha/Movie_trailer_website_generator/blob/master/webpage.html) is what it looks like when you run *entertainment_center.py*
 
 ## Extra Credit Description:
 
